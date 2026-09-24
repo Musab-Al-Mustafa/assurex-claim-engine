@@ -1,0 +1,30 @@
+ASSUREX CLAIM ENGINE - DAY 2 MODEL EVALUATION REPORT
+============================================================
+
+Model: Decision Tree
+  Train Accuracy: 83.71%
+  Val Accuracy:   84.44%
+  Test Accuracy:  84.89%
+
+Model: Random Forest
+  Train Accuracy: 100.00%
+  Val Accuracy:   100.00%
+  Test Accuracy:  99.56%
+
+Model: Gradient Boosting
+  Train Accuracy: 100.00%
+  Val Accuracy:   100.00%
+  Test Accuracy:  99.56%
+
+BEST PERFORMING MODEL: Random Forest (Val Acc: 100.00%)
+
+Detailed Test Set Classification Report:
+               precision    recall  f1-score   support
+
+Invalid Claim       0.99      1.00      0.99        75
+Manual Review       1.00      0.99      0.99        75
+  Valid Claim       1.00      1.00      1.00        75
+
+     accuracy                           1.00       225
+    macro avg       1.00      1.00      1.00       225
+ weighted avg       1.00      1.00      1.00       225
