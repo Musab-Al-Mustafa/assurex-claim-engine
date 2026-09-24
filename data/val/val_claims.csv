@@ -1,0 +1,226 @@
+Claim_ID,Customer_Name,Product_Category,Brand,Model_Number,Serial_Number,Purchase_Price,Purchase_Date,Claim_Date,Product_Age_Months,Warranty_Duration_Months,Remaining_Warranty_Months,Fault_Type,Has_Receipt,Has_Warranty_Card,Has_Damage_Photo,Serial_Number_Match,Previous_Unauthorized_Repairs,Duplicate_Claim_Flag,Date_Contradiction_Flag,Missing_Documents_Count,Claim_Class
+CLM-0055,Robert Chase,Washing Machine,Whirlpool,WHI-999,WH-413921,967,2025-09-11,2026-01-25,4.5,24,19.5,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1041,Joshua Campbell,Smartphone,Samsung,SAM-463,SA-587227,493,2023-12-22,2024-11-07,10.7,12,1.3,Power Failure,True,True,True,True,False,True,False,0,Manual Review
+CLM-0112,Jeremy Lowe,Refrigerator,Bosch,BOS-576,BO-912270,1602,2025-02-14,2026-07-24,17.5,24,6.5,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0259,Jeremiah Riley,Washing Machine,Whirlpool,WHI-234,WH-903531,744,2023-10-25,2025-08-17,22.1,24,1.9,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1449,Diane Bailey,Smartphone,Google,GOO-390,GO-107974,1110,2024-09-17,2024-08-27,-0.7,12,12.0,Power Failure,True,True,True,True,False,False,True,0,Manual Review
+CLM-1309,Thomas Davis,Washing Machine,LG,LG-197,LG-652049,579,2024-08-24,2025-08-02,11.4,24,12.6,Overheating,True,True,False,True,False,False,False,1,Manual Review
+CLM-0674,James Thomas,Smartphone,Samsung,SAM-269,SA-610511,1006,2024-05-19,2024-06-21,1.1,12,10.9,Screen Damage,False,True,True,False,False,False,False,1,Invalid Claim
+CLM-0804,Erica Nelson,Washing Machine,Whirlpool,WHI-519,WH-349433,905,2025-09-02,2028-07-19,35.0,24,0.0,Water Leakage,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-0399,John Reid,Smartphone,Apple,APP-762,AP-313214,822,2023-10-10,2024-04-26,6.6,12,5.4,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0646,Tammy Kane,Refrigerator,LG,LG-217,LG-407835,1238,2024-08-01,2027-07-03,35.5,24,0.0,Board Defect,True,False,True,True,False,False,False,1,Invalid Claim
+CLM-1252,Alison Gray,Laptop,Dell,DEL-383,DE-189870,1200,2024-08-30,2025-04-10,7.4,12,4.6,Motor Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-1436,Gina Wallace,Laptop,Dell,DEL-780,DE-800409,2080,2024-05-23,2024-05-08,-0.5,12,12.0,Board Defect,True,True,True,True,False,False,True,0,Manual Review
+CLM-1036,Daniel Goodwin,Smartphone,Apple,APP-745,AP-950389,1165,2024-06-08,2024-05-21,-0.6,12,12.0,Water Leakage,True,True,True,True,False,False,True,0,Manual Review
+CLM-1219,Karen Smith,Refrigerator,Bosch,BOS-279,BO-507440,1926,2024-10-11,2025-03-26,5.5,24,18.5,Board Defect,True,True,True,True,False,True,False,0,Manual Review
+CLM-0672,Rebecca Sellers,Washing Machine,Whirlpool,WHI-692,WH-208239,731,2025-06-18,2026-04-10,9.9,24,14.1,Overheating,True,False,True,False,True,False,False,1,Invalid Claim
+CLM-0530,Samantha Gill,Washing Machine,Samsung,SAM-920,SA-237057,1078,2024-11-15,2027-05-03,30.0,24,0.0,Water Leakage,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-0174,Eric Hall,Smartphone,Samsung,SAM-209,SA-503380,707,2025-03-23,2025-12-25,9.2,12,2.8,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1206,Whitney Garcia,Refrigerator,Samsung,SAM-281,SA-979226,849,2024-07-29,2024-09-15,1.6,24,22.4,Power Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-0376,Stephanie Lee,Laptop,HP,HP-552,HP-444056,936,2025-06-14,2026-04-06,9.9,12,2.1,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0283,Alison Buchanan,Smartphone,Google,GOO-930,GO-762423,1280,2025-02-02,2025-06-05,4.1,12,7.9,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1301,Michael Osborn,Laptop,Lenovo,LEN-176,LE-234733,1168,2024-03-14,2025-02-25,11.6,12,0.4,Overheating,True,True,False,True,False,False,False,1,Manual Review
+CLM-0756,Scott Sanchez,Washing Machine,LG,LG-297,LG-201836,931,2023-09-26,2026-02-10,28.9,24,0.0,Overheating,True,False,True,True,False,False,False,1,Invalid Claim
+CLM-1295,Jane Deleon,Refrigerator,Samsung,SAM-265,SA-235073,580,2025-04-14,2025-03-20,-0.8,24,24.0,Motor Failure,True,True,True,True,False,False,True,0,Manual Review
+CLM-0372,Patricia Lamb,Laptop,HP,HP-565,HP-601410,873,2024-02-12,2024-05-30,3.6,12,8.4,Board Defect,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1217,Robert Charles,Refrigerator,Bosch,BOS-323,BO-486903,1777,2023-10-03,2023-12-16,2.5,24,21.5,Water Leakage,True,True,True,False,False,False,False,0,Manual Review
+CLM-1057,Jane Short,Refrigerator,LG,LG-843,LG-557420,1928,2025-05-11,2025-04-27,-0.5,24,24.0,Screen Damage,True,True,True,True,False,False,True,0,Manual Review
+CLM-0657,Brenda Collins,Refrigerator,Samsung,SAM-686,SA-682032,1633,2025-07-01,2027-09-22,27.1,24,0.0,Overheating,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-0916,Susan Arroyo,Washing Machine,LG,LG-178,LG-191549,868,2025-06-13,2028-01-19,31.7,24,0.0,Motor Failure,True,True,True,False,False,False,False,0,Invalid Claim
+CLM-0413,Debra Miller,Washing Machine,LG,LG-336,LG-244170,822,2025-09-11,2027-07-18,22.5,24,1.5,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0768,Timothy Johnson,Smartphone,Samsung,SAM-251,SA-194458,1333,2024-04-02,2025-12-04,20.4,12,0.0,Screen Damage,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-0497,William Cardenas,Laptop,Apple,APP-147,AP-460437,2214,2024-11-19,2025-01-12,1.8,12,10.2,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0535,Daniel Aguilar,Laptop,Lenovo,LEN-131,LE-638401,1411,2024-09-02,2026-02-27,18.1,12,0.0,Water Leakage,True,False,True,True,False,False,False,1,Invalid Claim
+CLM-1412,Elizabeth Hardy,Washing Machine,Samsung,SAM-740,SA-258898,565,2023-11-07,2025-03-25,16.8,24,7.2,Motor Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-1223,Dennis Henderson,Laptop,Lenovo,LEN-309,LE-411023,1621,2025-06-29,2025-06-12,-0.6,12,12.0,Board Defect,True,True,True,True,False,False,True,0,Manual Review
+CLM-0955,Joyce Madden,Laptop,Apple,APP-285,AP-832045,1350,2024-04-10,2024-08-12,4.1,12,7.9,Power Failure,True,False,True,True,True,False,False,1,Invalid Claim
+CLM-0974,Margaret Hernandez,Washing Machine,Whirlpool,WHI-651,WH-419723,467,2024-06-19,2026-12-28,30.7,24,0.0,Power Failure,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-0029,Melanie Herrera,Laptop,HP,HP-269,HP-598369,1951,2025-03-06,2026-01-11,10.4,12,1.6,Power Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1288,Juan Hawkins,Smartphone,Samsung,SAM-219,SA-485166,1211,2025-06-24,2025-07-29,1.2,12,10.8,Motor Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-0345,Mrs. Tricia Stewart,Refrigerator,Bosch,BOS-421,BO-651002,1479,2025-01-30,2026-03-21,13.8,24,10.2,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1234,Brianna Adams,Refrigerator,Bosch,BOS-489,BO-260221,1600,2025-07-11,2025-06-28,-0.4,24,24.0,Water Leakage,True,True,True,True,False,False,True,0,Manual Review
+CLM-0675,Chad Reyes,Washing Machine,Whirlpool,WHI-470,WH-394450,1058,2024-07-22,2026-10-26,27.5,24,0.0,Overheating,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-0297,Lee Jones,Washing Machine,Whirlpool,WHI-479,WH-812048,557,2025-08-23,2026-12-26,16.3,24,7.7,Power Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1250,Ashley Freeman,Washing Machine,Samsung,SAM-160,SA-953929,980,2025-03-22,2025-03-11,-0.4,24,24.0,Board Defect,True,True,True,True,False,False,True,0,Manual Review
+CLM-0912,Melissa Little,Washing Machine,Samsung,SAM-442,SA-283781,775,2025-04-11,2025-06-14,2.1,24,21.9,Screen Damage,True,True,True,True,True,False,False,0,Invalid Claim
+CLM-1372,Michelle Martinez,Washing Machine,Whirlpool,WHI-486,WH-243960,939,2025-03-30,2025-05-11,1.4,24,22.6,Water Leakage,True,True,True,False,False,False,False,0,Manual Review
+CLM-0851,Kara Wilson,Refrigerator,LG,LG-821,LG-704349,1618,2024-05-08,2024-06-24,1.6,24,22.4,Power Failure,False,True,True,False,False,False,False,1,Invalid Claim
+CLM-0987,Kara Sandoval,Smartphone,Google,GOO-364,GO-311802,375,2025-05-13,2026-10-24,17.6,12,0.0,Power Failure,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-1111,Kaitlin Olson,Smartphone,Apple,APP-666,AP-163577,851,2024-09-07,2025-03-18,6.4,12,5.6,Water Leakage,True,True,False,True,False,False,False,1,Manual Review
+CLM-0391,Lisa Henderson,Laptop,Lenovo,LEN-426,LE-955413,1079,2024-11-24,2025-10-14,10.8,12,1.2,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1211,Kimberly Nelson,Laptop,HP,HP-116,HP-350127,1367,2024-09-21,2025-01-31,4.4,12,7.6,Water Leakage,True,True,True,False,False,False,False,0,Manual Review
+CLM-0957,Heather Rhodes,Washing Machine,Whirlpool,WHI-435,WH-619900,539,2023-10-25,2024-04-19,5.9,24,18.1,Water Leakage,False,True,True,True,False,False,False,1,Invalid Claim
+CLM-1355,Andrea Ho,Smartphone,Google,GOO-380,GO-929303,1331,2024-02-29,2024-02-05,-0.8,12,12.0,Board Defect,True,True,True,True,False,False,True,0,Manual Review
+CLM-1386,Andrew Lane,Washing Machine,LG,LG-430,LG-548217,991,2023-10-23,2023-10-16,-0.2,24,24.0,Screen Damage,True,True,True,True,False,False,True,0,Manual Review
+CLM-0607,Amanda Mcfarland,Laptop,Dell,DEL-528,DE-541315,1216,2024-11-19,2025-02-08,2.7,12,9.3,Motor Failure,True,False,True,True,True,False,False,1,Invalid Claim
+CLM-0105,Benjamin Beck,Smartphone,Google,GOO-271,GO-904150,824,2024-02-25,2024-09-30,7.3,12,4.7,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1162,James Goodman,Smartphone,Google,GOO-294,GO-224249,433,2024-04-04,2024-03-05,-1.0,12,12.0,Screen Damage,True,True,True,True,False,False,True,0,Manual Review
+CLM-0233,Jessica Fox,Smartphone,Apple,APP-687,AP-703727,941,2023-12-11,2024-08-16,8.3,12,3.7,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0772,Anthony Shea DDS,Smartphone,Samsung,SAM-888,SA-465227,1048,2024-08-16,2026-02-21,18.5,12,0.0,Power Failure,True,False,True,True,False,False,False,1,Invalid Claim
+CLM-0167,Spencer Haynes,Washing Machine,Samsung,SAM-129,SA-827712,570,2024-04-12,2025-03-14,11.2,24,12.8,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1155,Deanna Medina,Laptop,Apple,APP-310,AP-905671,2104,2025-06-09,2025-12-25,6.6,12,5.4,Water Leakage,True,True,False,True,False,False,False,1,Manual Review
+CLM-0583,Kathryn Pena,Washing Machine,Samsung,SAM-762,SA-505343,428,2024-12-10,2027-03-23,27.8,24,0.0,Screen Damage,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-0585,Katherine Jackson,Laptop,Dell,DEL-485,DE-364650,1058,2025-04-09,2025-10-12,6.2,12,5.8,Power Failure,True,False,True,False,True,False,False,1,Invalid Claim
+CLM-0801,Rebecca Wright,Washing Machine,LG,LG-283,LG-692960,743,2024-02-26,2024-06-11,3.5,24,20.5,Board Defect,True,True,True,True,True,False,False,0,Invalid Claim
+CLM-0116,Robert Hernandez,Refrigerator,LG,LG-669,LG-835244,1720,2025-02-28,2026-01-06,10.4,24,13.6,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0072,Daniel Baker,Smartphone,Google,GOO-690,GO-221263,1347,2023-12-11,2024-07-25,7.6,12,4.4,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0584,Phillip Burns,Laptop,Lenovo,LEN-235,LE-529399,1934,2025-03-09,2025-04-18,1.3,12,10.7,Board Defect,True,True,True,False,True,False,False,0,Invalid Claim
+CLM-0280,Steven Newman,Refrigerator,Bosch,BOS-453,BO-474440,533,2025-03-10,2025-06-17,3.3,24,20.7,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0267,Richard Smith,Laptop,Lenovo,LEN-950,LE-638289,1520,2024-11-30,2025-03-15,3.5,12,8.5,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0080,Sarah Davis,Smartphone,Google,GOO-912,GO-636004,737,2024-04-07,2025-01-04,9.1,12,2.9,Board Defect,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0932,Lori Wright,Refrigerator,LG,LG-859,LG-423050,1219,2023-10-08,2023-12-21,2.5,24,21.5,Water Leakage,False,True,True,False,False,False,False,1,Invalid Claim
+CLM-1209,Ryan Johnson,Laptop,Apple,APP-499,AP-150075,2026,2024-01-01,2024-12-21,11.8,12,0.2,Board Defect,True,True,True,False,False,False,False,0,Manual Review
+CLM-0122,Amber Wright,Laptop,Dell,DEL-222,DE-301939,2077,2025-03-18,2025-09-25,6.4,12,5.6,Board Defect,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1235,John Lee,Refrigerator,LG,LG-173,LG-493370,1080,2024-07-25,2026-03-22,20.2,24,3.8,Power Failure,True,True,False,True,False,False,False,1,Manual Review
+CLM-0905,Shannon Green,Laptop,HP,HP-581,HP-701568,2471,2024-04-26,2025-12-20,20.1,12,0.0,Board Defect,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-0608,Daniel Thomas,Washing Machine,Samsung,SAM-896,SA-922880,516,2024-05-26,2027-02-24,33.5,24,0.0,Power Failure,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-0623,Justin Russell,Washing Machine,Samsung,SAM-136,SA-785111,1163,2024-08-24,2026-11-04,26.7,24,0.0,Overheating,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-1418,Michelle Nelson,Refrigerator,Samsung,SAM-690,SA-269316,1105,2025-03-25,2025-07-02,3.3,24,20.7,Power Failure,True,True,True,True,False,True,False,0,Manual Review
+CLM-1255,Gregory Oconnor,Washing Machine,Samsung,SAM-584,SA-645337,1017,2024-12-08,2025-10-06,10.1,24,13.9,Power Failure,True,True,False,True,False,False,False,1,Manual Review
+CLM-0504,Ashlee Townsend,Laptop,Apple,APP-406,AP-866260,782,2024-06-07,2025-08-23,14.7,12,0.0,Screen Damage,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-0021,Emily Rios,Smartphone,Google,GOO-710,GO-503457,430,2024-12-08,2025-07-21,7.5,12,4.5,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0257,Michelle Hopkins,Washing Machine,Samsung,SAM-449,SA-289019,716,2024-04-06,2024-12-11,8.3,24,15.7,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0977,Angela Vasquez,Washing Machine,Whirlpool,WHI-729,WH-315910,1091,2024-10-14,2025-07-25,9.5,24,14.5,Power Failure,False,False,True,True,False,False,False,2,Invalid Claim
+CLM-1341,Terry Carrillo,Smartphone,Apple,APP-118,AP-301512,860,2024-01-08,2024-04-21,3.5,12,8.5,Overheating,True,True,False,True,False,False,False,1,Manual Review
+CLM-0298,Lauren Joseph,Smartphone,Apple,APP-507,AP-655178,581,2024-04-25,2024-11-28,7.2,12,4.8,Power Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0393,Lisa Brown,Refrigerator,LG,LG-852,LG-683761,624,2024-08-16,2026-05-13,21.2,24,2.8,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1138,Amy Price,Washing Machine,LG,LG-960,LG-552931,891,2025-03-19,2025-05-12,1.8,24,22.2,Power Failure,True,True,True,True,False,True,False,0,Manual Review
+CLM-1260,Manuel Flores,Laptop,Dell,DEL-748,DE-952092,1906,2025-07-21,2026-01-31,6.5,12,5.5,Power Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-0745,David Middleton,Laptop,Dell,DEL-850,DE-611540,857,2025-07-13,2027-01-16,18.4,12,0.0,Screen Damage,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-1360,Rachel Meyer,Smartphone,Google,GOO-825,GO-371407,1375,2025-02-04,2025-01-21,-0.5,12,12.0,Power Failure,True,True,True,True,False,False,True,0,Manual Review
+CLM-1027,Barbara Williams,Refrigerator,Samsung,SAM-482,SA-814407,1082,2024-02-06,2024-07-09,5.1,24,18.9,Overheating,True,True,False,True,False,False,False,1,Manual Review
+CLM-0365,Yolanda Gaines,Refrigerator,LG,LG-279,LG-807160,1662,2025-06-29,2026-02-11,7.6,24,16.4,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0595,Megan Drake,Washing Machine,Whirlpool,WHI-240,WH-655575,790,2024-10-19,2025-06-17,8.0,24,16.0,Screen Damage,False,True,True,True,False,False,False,1,Invalid Claim
+CLM-0873,Sheryl Humphrey,Washing Machine,LG,LG-832,LG-906048,953,2024-05-04,2024-09-22,4.7,24,19.3,Power Failure,False,True,True,False,False,False,False,1,Invalid Claim
+CLM-1323,Alejandra Price,Laptop,Dell,DEL-371,DE-413710,1194,2024-09-20,2025-06-24,9.2,12,2.8,Screen Damage,True,True,True,True,False,True,False,0,Manual Review
+CLM-0422,David Brewer,Smartphone,Samsung,SAM-819,SA-158840,1274,2023-10-22,2023-11-25,1.1,12,10.9,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0677,Katherine Taylor,Laptop,Apple,APP-744,AP-355506,645,2024-02-06,2025-05-06,15.2,12,0.0,Overheating,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-1454,Robert Garza,Laptop,Apple,APP-746,AP-204415,1073,2023-11-15,2024-02-17,3.1,12,8.9,Overheating,True,True,True,False,False,False,False,0,Manual Review
+CLM-0039,Kim Martinez,Refrigerator,Samsung,SAM-649,SA-300896,1009,2023-11-17,2024-06-28,7.5,24,16.5,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0783,Robert Torres,Refrigerator,LG,LG-502,LG-681896,560,2023-12-27,2024-05-20,4.8,24,19.2,Board Defect,False,True,True,False,False,False,False,1,Invalid Claim
+CLM-1152,Cheyenne Spears,Laptop,Apple,APP-972,AP-825447,2022,2024-03-18,2024-12-12,9.0,12,3.0,Overheating,True,True,True,True,False,True,False,0,Manual Review
+CLM-0110,Jennifer Bass,Refrigerator,Samsung,SAM-208,SA-962276,1360,2025-01-15,2026-06-30,17.7,24,6.3,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0884,Anthony Moody,Smartphone,Google,GOO-114,GO-594109,339,2025-07-29,2025-09-20,1.8,12,10.2,Screen Damage,True,True,True,True,True,False,False,0,Invalid Claim
+CLM-0017,Danielle Ford,Refrigerator,Samsung,SAM-758,SA-623481,1842,2024-02-04,2025-04-14,14.5,24,9.5,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0198,Paul Carroll,Laptop,HP,HP-892,HP-344316,2265,2025-06-01,2025-12-16,6.6,12,5.4,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1478,Melissa Conrad,Washing Machine,Whirlpool,WHI-338,WH-324156,736,2024-09-13,2026-02-01,16.9,24,7.1,Overheating,True,True,True,True,False,True,False,0,Manual Review
+CLM-0767,Steven Hodges,Washing Machine,Samsung,SAM-151,SA-692354,952,2025-05-19,2027-11-22,30.6,24,0.0,Board Defect,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-1365,Christopher Phillips,Washing Machine,Samsung,SAM-116,SA-865960,624,2025-06-28,2025-06-15,-0.4,24,24.0,Overheating,True,True,True,True,False,False,True,0,Manual Review
+CLM-1231,Chris Snyder,Laptop,Lenovo,LEN-983,LE-704422,1184,2023-10-01,2023-09-18,-0.4,12,12.0,Water Leakage,True,True,True,True,False,False,True,0,Manual Review
+CLM-0266,Jennifer Singleton,Washing Machine,Whirlpool,WHI-391,WH-992512,928,2025-04-09,2025-09-13,5.2,24,18.8,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0403,Marvin Greer,Laptop,Dell,DEL-348,DE-890973,2129,2024-11-22,2025-08-24,9.2,12,2.8,Board Defect,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1159,James Kramer,Refrigerator,Bosch,BOS-280,BO-287214,1003,2023-12-24,2024-08-10,7.7,24,16.3,Power Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-1380,Preston Smith,Laptop,Apple,APP-273,AP-849575,2006,2024-02-29,2024-05-26,2.9,12,9.1,Motor Failure,True,True,False,True,False,False,False,1,Manual Review
+CLM-0869,Alexandria Graves,Laptop,Apple,APP-359,AP-900962,1944,2024-09-14,2025-01-16,4.1,12,7.9,Power Failure,True,True,True,True,True,False,False,0,Invalid Claim
+CLM-0479,Veronica Silva,Washing Machine,Whirlpool,WHI-399,WH-934541,431,2024-06-08,2025-02-18,8.5,24,15.5,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1227,Mark Williamson,Laptop,Apple,APP-744,AP-437260,1667,2024-01-09,2024-05-11,4.1,12,7.9,Motor Failure,True,True,False,True,False,False,False,1,Manual Review
+CLM-0689,Jessica Mcknight,Refrigerator,Bosch,BOS-479,BO-891645,1313,2025-07-25,2028-03-12,32.0,24,0.0,Overheating,True,False,True,True,False,False,False,1,Invalid Claim
+CLM-0744,Michael Blair,Laptop,HP,HP-464,HP-195841,1623,2025-02-05,2025-08-27,6.8,12,5.2,Board Defect,True,True,True,True,True,False,False,0,Invalid Claim
+CLM-0810,Vickie Price,Smartphone,Google,GOO-685,GO-829630,729,2024-03-13,2026-02-14,23.4,12,0.0,Board Defect,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-1420,Carrie Brooks,Smartphone,Google,GOO-140,GO-229988,587,2024-03-10,2025-01-25,10.7,12,1.3,Power Failure,True,True,False,True,False,False,False,1,Manual Review
+CLM-1078,Eric Arnold,Refrigerator,Bosch,BOS-640,BO-460875,1142,2024-09-04,2024-10-12,1.3,24,22.7,Overheating,True,True,True,True,False,True,False,0,Manual Review
+CLM-1214,Mark Ferguson,Refrigerator,Bosch,BOS-504,BO-298754,1783,2024-12-06,2024-11-14,-0.7,24,24.0,Water Leakage,True,True,True,True,False,False,True,0,Manual Review
+CLM-0814,Travis Copeland,Smartphone,Samsung,SAM-806,SA-450006,393,2024-12-05,2025-04-22,4.6,12,7.4,Power Failure,False,True,True,True,False,False,False,1,Invalid Claim
+CLM-0344,Thomas Cunningham,Smartphone,Google,GOO-631,GO-840058,427,2024-12-18,2025-03-28,3.3,12,8.7,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0147,Marissa Webster,Refrigerator,Samsung,SAM-773,SA-639593,1327,2023-11-17,2023-12-18,1.0,24,23.0,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0939,Mrs. Alison Wagner,Laptop,Dell,DEL-695,DE-901865,844,2025-04-11,2026-01-18,9.4,12,2.6,Water Leakage,False,True,True,False,False,False,False,1,Invalid Claim
+CLM-0594,Kimberly Mitchell,Refrigerator,LG,LG-299,LG-593393,741,2024-11-09,2027-10-19,35.8,24,0.0,Overheating,True,True,True,False,False,False,False,0,Invalid Claim
+CLM-0870,Jennifer Perry,Smartphone,Google,GOO-363,GO-769809,455,2024-12-24,2025-06-13,5.7,12,6.3,Screen Damage,False,False,True,False,False,False,False,2,Invalid Claim
+CLM-1011,Megan English,Laptop,Dell,DEL-354,DE-374516,1194,2025-02-24,2025-07-24,5.0,12,7.0,Power Failure,True,True,False,True,False,False,False,1,Manual Review
+CLM-0496,Donna Berry,Smartphone,Samsung,SAM-445,SA-968581,961,2025-06-03,2025-11-25,5.8,12,6.2,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1063,Jennifer Kelley,Refrigerator,LG,LG-132,LG-809810,1231,2023-09-28,2023-09-07,-0.7,24,24.0,Motor Failure,True,True,True,True,False,False,True,0,Manual Review
+CLM-0240,Nicole Hamilton MD,Laptop,Dell,DEL-277,DE-368402,899,2024-05-05,2024-09-13,4.4,12,7.6,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0515,Brandi Gordon,Washing Machine,LG,LG-782,LG-555589,488,2024-10-12,2027-06-21,32.7,24,0.0,Board Defect,True,True,True,False,False,False,False,0,Invalid Claim
+CLM-0312,Ashley Ramirez,Refrigerator,Samsung,SAM-454,SA-438334,831,2025-07-12,2026-03-29,8.7,24,15.3,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0728,Matthew Wright,Refrigerator,LG,LG-474,LG-665883,1486,2024-01-11,2026-03-16,26.5,24,0.0,Water Leakage,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-0512,Tonya Howe,Laptop,Dell,DEL-533,DE-163406,2489,2024-02-16,2024-12-01,9.6,12,2.4,Board Defect,False,False,True,False,False,False,False,2,Invalid Claim
+CLM-0407,Eric Sanders,Smartphone,Samsung,SAM-523,SA-488712,716,2023-10-27,2024-05-04,6.3,12,5.7,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1431,Joseph Mejia,Smartphone,Samsung,SAM-245,SA-766566,816,2024-02-21,2024-06-20,4.0,12,8.0,Motor Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-0317,Sergio Knight,Refrigerator,Bosch,BOS-526,BO-904214,931,2024-06-23,2026-02-28,20.5,24,3.5,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0924,Dr. Victoria Thomas,Laptop,HP,HP-481,HP-841484,1751,2024-08-07,2026-02-10,18.4,12,0.0,Water Leakage,True,False,True,True,False,False,False,1,Invalid Claim
+CLM-1447,Scott Nguyen,Washing Machine,Whirlpool,WHI-895,WH-993077,696,2025-02-22,2025-02-10,-0.4,24,24.0,Water Leakage,True,True,True,True,False,False,True,0,Manual Review
+CLM-0301,Michelle Lewis,Laptop,Lenovo,LEN-225,LE-615060,2021,2025-08-06,2025-12-16,4.4,12,7.6,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0877,Amber Alvarez,Smartphone,Apple,APP-747,AP-476353,1396,2024-06-08,2024-12-10,6.2,12,5.8,Board Defect,False,False,True,True,False,False,False,2,Invalid Claim
+CLM-0331,Patrick Graham,Smartphone,Apple,APP-395,AP-480133,698,2023-11-19,2024-09-27,10.4,12,1.6,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0982,Jamie Johnson,Smartphone,Google,GOO-318,GO-119506,669,2025-02-13,2025-12-04,9.8,12,2.2,Board Defect,True,True,True,False,True,False,False,0,Invalid Claim
+CLM-1215,Joshua Ballard,Washing Machine,LG,LG-277,LG-211028,618,2025-08-30,2026-09-29,13.2,24,10.8,Motor Failure,True,True,True,True,False,True,False,0,Manual Review
+CLM-0133,Jean Carrillo,Laptop,Lenovo,LEN-345,LE-185131,1952,2024-03-03,2024-06-21,3.7,12,8.3,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0438,Dr. Kelly Hammond DVM,Refrigerator,Bosch,BOS-903,BO-725920,690,2024-07-30,2026-05-03,21.4,24,2.6,Power Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0746,Lee Parker,Washing Machine,Whirlpool,WHI-596,WH-475565,786,2023-12-24,2024-03-31,3.3,24,20.7,Board Defect,True,False,True,True,True,False,False,1,Invalid Claim
+CLM-1135,Mary Adkins,Washing Machine,Whirlpool,WHI-645,WH-149246,629,2024-01-10,2024-11-19,10.5,24,13.5,Water Leakage,True,True,False,True,False,False,False,1,Manual Review
+CLM-0581,Timothy Riley,Smartphone,Google,GOO-708,GO-814263,553,2023-10-07,2025-03-03,17.1,12,0.0,Water Leakage,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-1371,Fred Wong,Laptop,Dell,DEL-760,DE-175548,893,2024-09-12,2024-08-24,-0.6,12,12.0,Water Leakage,True,True,True,True,False,False,True,0,Manual Review
+CLM-0904,Brian Brown,Refrigerator,Samsung,SAM-544,SA-548906,1995,2024-05-01,2024-10-04,5.2,24,18.8,Overheating,True,True,True,False,True,False,False,0,Invalid Claim
+CLM-1251,Dr. Nicole Trujillo,Laptop,HP,HP-989,HP-528649,1131,2024-05-28,2025-02-07,8.5,12,3.5,Board Defect,True,True,True,False,False,False,False,0,Manual Review
+CLM-1493,Richard Green,Smartphone,Google,GOO-589,GO-800695,1215,2025-04-29,2025-04-06,-0.8,12,12.0,Board Defect,True,True,True,True,False,False,True,0,Manual Review
+CLM-1429,Nichole Johnson,Smartphone,Apple,APP-715,AP-435740,737,2024-11-02,2025-09-18,10.7,12,1.3,Water Leakage,True,True,True,False,False,False,False,0,Manual Review
+CLM-0120,Stephanie Dalton,Refrigerator,LG,LG-535,LG-656711,1633,2025-02-15,2026-03-04,12.7,24,11.3,Board Defect,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0439,Evan Jones,Smartphone,Apple,APP-897,AP-533911,897,2023-11-21,2024-07-06,7.6,12,4.4,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1176,Michael Smith,Laptop,Dell,DEL-659,DE-174814,842,2024-10-31,2025-06-02,7.1,12,4.9,Screen Damage,True,True,True,False,False,False,False,0,Manual Review
+CLM-0605,Stacy Alvarez,Refrigerator,Bosch,BOS-149,BO-150947,1776,2025-08-25,2025-10-18,1.8,24,22.2,Board Defect,True,True,True,True,True,False,False,0,Invalid Claim
+CLM-1435,Laura Jackson,Laptop,Apple,APP-942,AP-826559,1326,2025-03-25,2026-02-10,10.7,12,1.3,Motor Failure,True,True,False,True,False,False,False,1,Manual Review
+CLM-1406,Michael Peterson,Laptop,Dell,DEL-874,DE-322203,733,2025-05-12,2026-04-12,11.2,12,0.8,Power Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-0761,Stephanie White,Smartphone,Samsung,SAM-409,SA-861594,300,2023-12-26,2025-06-13,17.8,12,0.0,Motor Failure,True,True,True,True,False,False,False,0,Invalid Claim
+CLM-1115,James Anderson,Laptop,Apple,APP-101,AP-682119,2466,2024-12-26,2025-09-13,8.7,12,3.3,Water Leakage,True,True,True,False,False,False,False,0,Manual Review
+CLM-0609,Jennifer Jones,Laptop,Lenovo,LEN-312,LE-529660,2040,2025-06-23,2025-10-13,3.7,12,8.3,Board Defect,False,True,True,False,False,False,False,1,Invalid Claim
+CLM-1110,Diane Miller,Smartphone,Apple,APP-620,AP-312398,406,2025-04-12,2025-03-23,-0.7,12,12.0,Overheating,True,True,True,True,False,False,True,0,Manual Review
+CLM-0340,Sabrina Briggs,Smartphone,Samsung,SAM-697,SA-856442,766,2024-06-23,2024-08-18,1.9,12,10.1,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1118,Amanda Bowers,Refrigerator,Samsung,SAM-407,SA-875089,830,2025-08-25,2027-03-24,19.2,24,4.8,Motor Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-0126,Stephanie Manning,Washing Machine,Whirlpool,WHI-753,WH-831295,699,2025-08-29,2026-02-04,5.3,24,18.7,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0681,Keith Flynn,Refrigerator,LG,LG-235,LG-719284,1721,2024-10-08,2027-02-22,28.9,24,0.0,Motor Failure,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-0507,Donna Mitchell,Washing Machine,Whirlpool,WHI-353,WH-502686,1147,2024-02-26,2024-11-01,8.3,24,15.7,Power Failure,False,False,True,True,False,False,False,2,Invalid Claim
+CLM-0947,Kayla Williamson,Washing Machine,LG,LG-936,LG-602811,417,2025-07-01,2026-01-06,6.3,24,17.7,Water Leakage,False,False,True,True,False,False,False,2,Invalid Claim
+CLM-0172,Jackie Tran,Washing Machine,Samsung,SAM-261,SA-810526,694,2024-05-19,2025-12-29,19.6,24,4.4,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0199,John Torres,Washing Machine,Samsung,SAM-356,SA-236306,548,2024-05-06,2025-12-10,19.4,24,4.6,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0913,Megan Romero,Washing Machine,Whirlpool,WHI-461,WH-873199,889,2024-09-28,2025-02-12,4.6,24,19.4,Power Failure,True,True,True,False,True,False,False,0,Invalid Claim
+CLM-0723,Alejandra Santos,Washing Machine,LG,LG-661,LG-516332,570,2023-11-17,2026-01-23,26.6,24,0.0,Motor Failure,True,True,True,False,False,False,False,0,Invalid Claim
+CLM-0978,Donald Hunter,Refrigerator,LG,LG-371,LG-621091,913,2024-03-30,2024-06-06,2.3,24,21.7,Motor Failure,True,True,True,False,True,False,False,0,Invalid Claim
+CLM-0247,Michael Nolan,Washing Machine,Samsung,SAM-429,SA-783501,985,2024-04-09,2024-11-17,7.4,24,16.6,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0493,Edwin David,Refrigerator,Bosch,BOS-435,BO-576782,1255,2024-04-03,2025-09-14,17.6,24,6.4,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0128,Kelly Sims,Refrigerator,Samsung,SAM-216,SA-364742,605,2024-04-27,2025-09-28,17.3,24,6.7,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0071,Marc Hart,Washing Machine,LG,LG-846,LG-555673,1010,2023-11-20,2024-12-07,12.8,24,11.2,Power Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1370,Michelle Harris,Laptop,Lenovo,LEN-803,LE-425226,643,2024-09-11,2024-08-25,-0.6,12,12.0,Overheating,True,True,True,True,False,False,True,0,Manual Review
+CLM-0053,Corey Herrera,Laptop,Lenovo,LEN-350,LE-465962,871,2025-07-25,2025-09-28,2.2,12,9.8,Power Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0154,Kevin Rivas,Smartphone,Apple,APP-492,AP-678043,1235,2025-04-02,2025-07-15,3.5,12,8.5,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1254,Kimberly Henry,Washing Machine,LG,LG-199,LG-888318,672,2024-08-29,2024-10-05,1.2,24,22.8,Screen Damage,True,True,True,False,False,False,False,0,Manual Review
+CLM-0357,Raymond Shelton,Smartphone,Google,GOO-874,GO-600641,1274,2024-05-01,2024-09-10,4.4,12,7.6,Power Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1020,Tammy Hughes,Refrigerator,LG,LG-973,LG-430870,837,2025-03-16,2025-02-22,-0.7,24,24.0,Board Defect,True,True,True,True,False,False,True,0,Manual Review
+CLM-0459,Charles Williams,Laptop,Lenovo,LEN-402,LE-606222,650,2024-04-19,2024-07-11,2.8,12,9.2,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1147,Matthew Cantrell,Laptop,Lenovo,LEN-290,LE-541457,1327,2023-10-23,2024-07-25,9.2,12,2.8,Screen Damage,True,True,False,True,False,False,False,1,Manual Review
+CLM-0511,Russell French,Smartphone,Samsung,SAM-114,SA-899776,653,2025-09-08,2025-11-14,2.2,12,9.8,Power Failure,False,True,True,True,False,False,False,1,Invalid Claim
+CLM-1048,Maria Case,Refrigerator,Bosch,BOS-189,BO-823825,1879,2025-04-22,2026-06-30,14.5,24,9.5,Screen Damage,True,True,True,True,False,True,False,0,Manual Review
+CLM-0593,Juan Smith,Laptop,Lenovo,LEN-366,LE-880360,1057,2023-10-07,2024-06-08,8.2,12,3.8,Overheating,False,False,True,False,False,False,False,2,Invalid Claim
+CLM-0699,Pam Lowe,Refrigerator,Samsung,SAM-448,SA-630829,1333,2024-06-01,2027-04-03,34.5,24,0.0,Motor Failure,True,True,True,False,False,False,False,0,Invalid Claim
+CLM-0758,Robert Klein,Smartphone,Apple,APP-773,AP-930956,641,2025-07-22,2027-05-24,22.4,12,0.0,Screen Damage,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-0473,Kathryn Williams,Laptop,Lenovo,LEN-810,LE-291936,839,2025-01-04,2025-08-13,7.4,12,4.6,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0619,Angela Moore,Washing Machine,Samsung,SAM-252,SA-861949,1077,2024-04-03,2026-12-25,33.2,24,0.0,Overheating,True,False,True,False,False,False,False,1,Invalid Claim
+CLM-1141,Andrew Cruz,Smartphone,Google,GOO-486,GO-189689,555,2024-07-09,2024-09-08,2.0,12,10.0,Power Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-0143,Daniel Murphy,Smartphone,Google,GOO-699,GO-391668,1205,2024-04-14,2024-08-14,4.1,12,7.9,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1108,Christopher Mullen,Laptop,Dell,DEL-830,DE-441092,1858,2024-02-01,2024-06-02,4.1,12,7.9,Motor Failure,True,True,True,False,False,False,False,0,Manual Review
+CLM-1266,Martin Price,Washing Machine,LG,LG-363,LG-502118,734,2023-12-10,2023-11-12,-0.9,24,24.0,Board Defect,True,True,True,True,False,False,True,0,Manual Review
+CLM-0229,Jennifer Flores,Laptop,Lenovo,LEN-882,LE-904624,1032,2024-03-24,2024-07-02,3.3,12,8.7,Power Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0736,Carrie Ruiz,Washing Machine,LG,LG-530,LG-258003,492,2024-07-04,2027-04-02,33.4,24,0.0,Power Failure,True,True,True,False,False,False,False,0,Invalid Claim
+CLM-0482,Crystal Williams,Refrigerator,Bosch,BOS-659,BO-896922,585,2025-05-19,2026-09-12,16.0,24,8.0,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0474,Regina Stone,Smartphone,Samsung,SAM-533,SA-702727,582,2024-01-09,2024-08-22,7.5,12,4.5,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0887,Sara Wright,Laptop,Lenovo,LEN-164,LE-931627,2313,2025-08-04,2026-09-21,13.8,12,0.0,Motor Failure,True,True,True,False,False,False,False,0,Invalid Claim
+CLM-0629,Jason Washington,Washing Machine,Samsung,SAM-104,SA-790441,868,2024-02-01,2024-11-15,9.6,24,14.4,Overheating,True,True,True,False,True,False,False,0,Invalid Claim
+CLM-1030,Frank Williams,Smartphone,Samsung,SAM-430,SA-321634,564,2023-10-26,2023-12-19,1.8,12,10.2,Motor Failure,True,True,True,True,False,True,False,0,Manual Review
+CLM-0732,Rachel Leon,Smartphone,Samsung,SAM-391,SA-375754,751,2024-05-11,2026-01-07,20.2,12,0.0,Board Defect,True,True,True,False,False,False,False,0,Invalid Claim
+CLM-1456,Angela Galvan,Washing Machine,LG,LG-732,LG-112098,847,2024-02-06,2024-02-01,-0.2,24,24.0,Board Defect,True,True,True,True,False,False,True,0,Manual Review
+CLM-0643,Jonathan Schultz,Washing Machine,Samsung,SAM-711,SA-844163,877,2025-06-03,2027-07-13,25.7,24,0.0,Motor Failure,True,True,True,False,False,False,False,0,Invalid Claim
+CLM-1143,Raymond Thompson,Smartphone,Apple,APP-401,AP-810477,508,2025-01-01,2025-02-28,1.9,12,10.1,Water Leakage,True,True,True,False,False,False,False,0,Manual Review
+CLM-0085,Brittany Anderson,Washing Machine,LG,LG-280,LG-545798,1197,2024-07-07,2025-03-18,8.5,24,15.5,Board Defect,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0253,Denise Knight,Smartphone,Samsung,SAM-441,SA-858889,816,2025-06-30,2025-10-14,3.5,12,8.5,Motor Failure,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0498,Donna Roberts,Smartphone,Apple,APP-551,AP-999312,554,2025-05-17,2025-09-04,3.7,12,8.3,Water Leakage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0031,Troy Liu,Refrigerator,LG,LG-353,LG-573417,1559,2024-01-25,2024-06-26,5.1,24,18.9,Screen Damage,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0246,Briana Murray,Washing Machine,Whirlpool,WHI-573,WH-631699,1008,2024-10-15,2025-12-12,14.1,24,9.9,Overheating,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1189,Mark Cole,Laptop,Dell,DEL-127,DE-822494,2292,2024-04-09,2025-03-13,11.3,12,0.7,Screen Damage,True,True,False,True,False,False,False,1,Manual Review
+CLM-0667,Rebecca Ray,Smartphone,Google,GOO-474,GO-138436,735,2025-05-01,2025-10-11,5.4,12,6.6,Water Leakage,True,False,True,True,True,False,False,1,Invalid Claim
+CLM-0757,Thomas White,Laptop,HP,HP-790,HP-885587,1743,2024-09-25,2025-05-25,8.1,12,3.9,Water Leakage,True,True,True,False,True,False,False,0,Invalid Claim
+CLM-0354,Miguel Wagner,Laptop,HP,HP-331,HP-802371,703,2025-07-06,2026-05-03,10.0,12,2.0,Board Defect,True,True,True,True,False,False,False,0,Valid Claim
+CLM-0755,Ashley Yang,Smartphone,Samsung,SAM-954,SA-963652,419,2024-12-13,2025-05-28,5.5,12,6.5,Power Failure,True,True,True,True,True,False,False,0,Invalid Claim
+CLM-0245,Janet Vega,Washing Machine,LG,LG-178,LG-972097,777,2023-11-25,2024-10-13,10.8,24,13.2,Board Defect,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1411,Robert Reilly,Washing Machine,Whirlpool,WHI-588,WH-257482,1193,2024-06-11,2024-08-04,1.8,24,22.2,Overheating,True,True,False,True,False,False,False,1,Manual Review
+CLM-0205,Joseph Ramos,Washing Machine,LG,LG-536,LG-988456,890,2025-05-04,2026-07-19,14.7,24,9.3,Board Defect,True,True,True,True,False,False,False,0,Valid Claim
+CLM-1116,Scott Gordon,Refrigerator,Bosch,BOS-379,BO-100569,842,2023-10-07,2024-01-06,3.0,24,21.0,Overheating,True,True,False,True,False,False,False,1,Manual Review
+CLM-0222,Sherry Shields,Laptop,Apple,APP-261,AP-575682,1459,2025-01-02,2025-07-25,6.8,12,5.2,Power Failure,True,True,True,True,False,False,False,0,Valid Claim
